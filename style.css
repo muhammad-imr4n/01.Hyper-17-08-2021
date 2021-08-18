@@ -223,19 +223,23 @@ nav ul li a{
 /*Contact*/
 
 
-}
 .contact-row{
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
 }
-.contact-left-cal,.contact-right-cal{
-	flex-basis: 50%;	
+.contact-left-cal{
+	flex-basis: 50%;
+}
+.contact-right-cal{
+	flex-basis: 50%;
 }
 .contact-right-cal img{
 	width: 100%;
-
 }
+
+
+
 /*form*/
 form{
 	max-width: 350px;
