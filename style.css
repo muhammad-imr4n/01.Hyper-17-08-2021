@@ -333,7 +333,7 @@ hr{
 
 
 /*Responsive design */
-/*@media only screen and (max-width: 770px){
+@media only screen and (max-width: 770px){
 	#header{
 		background-image: none;
 	}
@@ -368,7 +368,7 @@ h1{
 .about-left-col,.about-right-col{
 	flex-basis: 100%;
 
-}
+
 }
 .about-text{
 	margin: 50px 50px 0;
@@ -389,7 +389,7 @@ h1{
 .courses-right-col{
 	flex-basis: 100%;
 	margin-top: 70px;
-}
+
 }
 .contact-left-cal,.contact-right-cal{
 	flex-basis: 100%;	
@@ -408,4 +408,3 @@ h1{
 
 }
 
-*/
